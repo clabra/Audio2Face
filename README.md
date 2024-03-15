@@ -2,11 +2,9 @@
 ## Audio to Face Blendshape 
 Implementation with PyTorch. 
 
-复现人：刘宇昂
 - Base model
     - LSTM using MFCC audio features
     - CNN([ref](http://research.nvidia.com/publication/2017-07_Audio-Driven-Facial-Animation) simplified version) with LPC features
-
 
 ## Prerequisites
 - Python3
